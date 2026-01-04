@@ -1,3 +1,4 @@
+# MARK-0105
 
 
 def schedule(a):  # schedule() 함수 : 각 시간표의 출력을 저장해놓고 변수에 따라서 각 반의 시간표 출력
@@ -7,7 +8,7 @@ def schedule(a):  # schedule() 함수 : 각 시간표의 출력을 저장해놓�
         print("수 : 영 사 실 과 체 한 국")
         print("목 : 사 음 수 역 국 과 한")
         print("금 : 국 역 영 사 동 동")
-        
+         
     elif a == '2':
         print("월 : 사 수 영 역 국 한 자")
         print("화 : 사 과 한 영 수 국")
